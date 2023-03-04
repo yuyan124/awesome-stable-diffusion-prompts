@@ -16,25 +16,27 @@ We hope you find these prompts useful and have fun using Stable Diffusion!
 
 ## Prompting techniques
 
+In production...
+
 
 
 ## Prompts
 
 ### Medium
 
-> photo, RAW photo, painting, digital painting, matte painting, fluid gouache painting, sketches, illustration, cartoons, sculpture, doodle, tapestry, crayons, comic, scratchboard, printing presses, glitter, ink, colored paper, black print, folk art, cyanotype, graffiti, risograph, pencil sketch, watercolor, pixel art, blacklight painting, cross stit ch, film grain, photograph, professional photography, artistic photography, production cinematic character render, CG, 
+> photo, RAW photo, painting, digital painting, matte painting, fluid gouache painting, sketches, illustration, cartoons, sculpture, doodle, tapestry, crayons, comic, marker, scratchboard, abstract, millipen, brush strokes, printing presses, glitter, ink, colored paper, black print, folk art, cyanotype, graffiti, risograph, pencil sketch, watercolor, pixel art, blacklight painting, film grain, photograph, professional photography, artistic photography, production cinematic character render, CG, cyberpunk
 
 
 
 ### Environments
 
-> indoors, outdoors, on the moon, in Narnia, underwater, the Emerald City, tundra, salt flat, jungle, desert mountain, cloud forest
+> indoors, outdoors, landscape, on the moon, in Narnia, underwater, the Emerald City, tundra, salt flat, jungle, desert mountain, cloud forest
 
 
 
 ### Style
 
-> 8k resolution photorealistic, hyper realistic, fantasy, dark fantasy, surrealist, dreamy, epic, epic scale, unreal engine
+> photorealistic, hyper realistic, fantasy, dark fantasy, surrealist, dreamy, epic, epic scale, unreal engine, dystopian, sci-fi
 
 
 
@@ -50,12 +52,6 @@ We hope you find these prompts useful and have fun using Stable Diffusion!
 
 
 
-**Negative Prompt**:
-
-> worst quality, low quality, normal quality, lowres, ((monochrome)), ((grayscale)), cropped, watermark, signature, blurry, jpeg artifacts, bad proportions, mutation, deformed
-
-
-
 ### Composition
 
 > Portrait, headshot, close-up, birds-eye, Ultra-Wide Angle, Depth of Field, overlooking, cowboy shot, from behind, from side, from outside, rotated, panorama, first-person view, dutch angle, pov, multiple, views, from above, from below, upside-down, wide shot, blurry foreground, fisheye
@@ -64,27 +60,33 @@ We hope you find these prompts useful and have fun using Stable Diffusion!
 
 ### Lighting
 
-> light nover, natural lighting, rim light, ambient lighting, staudio lights, cinematic lighting,  professional lighting, fantasy light, volumetric light, radiant light, volumetric lighting, softbox lighting, glowing lights, blue lighting, long exposure, fairy lights, neon, dark, overcast,
+> light nover, natural lighting, rim light, ambient lighting, staudio lights, cinematic lighting,  professional lighting, fantasy light, volumetric light, radiant light, volumetric lighting, softbox lighting, glowing lights, blue lighting, long exposure, fairy lights, neon, dark, overcast, backlitm, glowing, glimmer, shadows
 
 
 
-### Additional details
+### Color
 
-> sci-fi, stunningly beautiful, dystopian, glowing, backlitm, glimmer, shadows, brush strokes, smooth
-
-
-
-### Color Scheme
-
-> vibrant, muted, bright, monochromatic, colorful, black and white, pastel, millennial pink, acid green, desaturated, canary yellow, peach, two toned, pastel, mauve, ebony, nentral, day glo, green tinted, iridescent gold, vibrant pastel colors, beautifully color-coded, beautifully color graded, full of color
+> vibrant, muted, bright, monochromatic, colorful, black and white, pastel, millennial pink, acid green, desaturated, canary yellow, peach, two toned, pastel, mauve, ebony, nentral, day glo, green tinted, iridescent gold, gradient, limited palette, colorful, vibrant pastel colors, beautifully color-coded, beautifully color graded, full of color
 
 
+
+## Negative Prompt
+
+### General
+
+> worst quality, low quality, normal quality, lowres, underexposed, overexposed, bad art, low contrast, cropped, watermark, signature, logo, blurry, jpeg artifacts, bad proportions, mutation, deformed, censored, out of frame
+
+
+
+### Body
+
+> skin blemishes, skin dentation, poorly drawn face, bad anatomy, bad proportions,  gross proportions, extra ears, cloned face, distorted face, extra limbs, extra arms, malformed limbs, missing arms, too many arms, bad hands, mutated hands, poorly drawn hands, fused fingers, too many fingers, missing fingers, extra fingers, missing legs, extra legs, bad feet, extra foot
 
 
 
 ## Examples
 
-
+In production...
 
 
 
