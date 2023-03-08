@@ -82,22 +82,9 @@ In production...
 
 `light nover`, `glowing light`, `see-through silhouette`, `neon`, `atrium`, `staudio lights`, `fantasy light`, `volumetric light`, `radiant light`, `volumetric lighting`, `softbox lighting`, `professional lighting`, `fairy lights`, `blue lighting`
 
-$$
-\color{red}{123}
-$$
 
 
 ### Color
-
-|                                      |           |                                         |              |
-| ------------------------------------ | --------- | --------------------------------------- | ------------ |
-| $$\color{black}{▇▇▇▇▇}$$             | black     | <font color="whitesmoke">▇▇▇▇▇</font>   | whitesmoke   |
-| <font color="dimgray">▇▇▇▇▇</font>   | dimgray   | <font color="white">▇▇▇▇▇</font>        | white        |
-| <font color="gray">▇▇▇▇▇</font>      | gray      | <font color="snow">▇▇▇▇▇</font>         | snow         |
-| <font color="darkgray">▇▇▇▇▇</font>  | darkgray  | <font color="ghostwhite">▇▇▇▇▇</font>   | ghostwhite   |
-| <font color="silver">▇▇▇▇▇</font>    | silver    | <font color="floralwhite">▇▇▇▇▇</font>  | floralwhite  |
-| <font color="lightgray">▇▇▇▇▇</font> | lightgray | <font color="linen">▇▇▇▇▇</font>        | linen        |
-| <font color="gainsboro">▇▇▇▇▇</font> | gainsboro | <font color="antiquewhite">▇▇▇▇▇</font> | antiquewhite |
 
 
 
