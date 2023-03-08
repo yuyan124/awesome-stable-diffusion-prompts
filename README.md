@@ -24,7 +24,11 @@ In production...
 
 ### Medium
 
-> photo, RAW photo, painting, digital painting, matte painting, fluid gouache painting, sketches, illustration, cartoons, sculpture, doodle, tapestry, crayons, comic, marker, scratchboard, abstract, millipen, brush strokes, printing presses, glitter, ink, colored paper, black print, folk art, cyanotype, graffiti, risograph, pencil sketch, watercolor, pixel art, blacklight painting, film grain, photograph, professional photography, artistic photography, production cinematic character render, CG, cyberpunk
+`real`, `realistic`, `hyper realistic` `photorealistic`, `photo`, `RAW photo`, `polaroid`, `photography`, `professional photography`, `artistic photography`
+
+`CG`, `artbook`, `official art`, `reference sheet`, `megami magazine`, `anime`, `comic`, `tachi-e`, `official style`, `art nouveau`, `chibi`, `ink`, `watercolor`, `dakimakura`, `pixel art`, `card`, `cover page`, `retro arfstyle`, `4koma`, `silent comic`, `album`, `celluloid`, `silhouette`, `tarot`, `magazine cover`, `poster`
+
+> painting, digital painting, matte painting, fluid gouache painting, sketches, illustration, cartoons, sculpture, doodle, tapestry, crayons, marker, scratchboard, abstract, millipen, brush strokes, printing presses, glitter, colored paper, black print, folk art, cyanotype, graffiti, risograph, pencil sketch, blacklight painting, film grain, production cinematic character render, cyberpunk
 
 
 
@@ -48,23 +52,51 @@ In production...
 
 ### Resolution
 
-> 8k uhd, ultra high quality, best quality, masterpiece, ultra high res, highres, absurdres,  ultra-detailed, highly detailed, hyper-detailed, insane details, intricate details, finely detail, extremely detailed, sharp focus, ultra sharp focus, Anti-Aliasing, physically-based rendering
+`highres`, `ultra high res`, `absurdres`,`incredibly absurdres` ,  `best quality`, `ultra high quality`, `8k uhd`, 
+
+> , masterpiece,  ultra-detailed, highly detailed, hyper-detailed, insane details, intricate details, finely detail, extremely detailed, sharp focus, ultra sharp focus, Anti-Aliasing, physically-based rendering
 
 
 
 ### Composition
 
-> Portrait, headshot, close-up, birds-eye, Ultra-Wide Angle, Depth of Field, overlooking, cowboy shot, from behind, from side, from outside, rotated, panorama, first-person view, dutch angle, pov, multiple, views, from above, from below, upside-down, wide shot, blurry foreground, fisheye
+`panorama`, `wide shot`, `ultra wide angle`, `mid shot`, `full body`, `bust`, `cowboy shot`, `portrait`, `close-up`, `micro shot`, `close shot`, `selfie`, `pov`, `pov accross table`, `pov crotch`, `pov hands`, `first-person view`, `scan`
+
+`from view`, `from side`, `from above`, `from below`, `from outside`, `from behind`, `dynamic angle`, `cinematic angle`, `foreshortening`, `vanishing point`, `fisheye`,`birds eye` , `overlooking`
+
+`rotated`, `blurry foreground`, `bokeh`, `caustics`, `depth of field`, `motion blur`, `motion lines`, `speed lines` , `caustics`, `overexposure`, `long exposure`, `contour deepening`,
+
+`dutch angle`, `solo focus`, `drop shadow`,  `hatching`, `multiple views`, `upside-down`
 
 
 
 ### Lighting
 
-> light nover, natural lighting, rim light, ambient lighting, staudio lights, cinematic lighting,  professional lighting, fantasy light, volumetric light, radiant light, volumetric lighting, softbox lighting, glowing lights, blue lighting, long exposure, fairy lights, neon, dark, overcast, backlitm, glowing, glimmer, shadows
+`cinematic lighting`, `lens flare`, `reality ray tracing`
+
+`backlight`, `frontlight`, `sidelight`, `backlighting`, `rim light`, `strong rim light`, `god rays`, `light rays`, `ambient lighting`, `specular lighting`, `backlitm`, `glowing`, `glimmer`, `shadows`
+
+`natural lighting`, `sunlight`, `sunbeam`, `dappled sunlight`, `sunlight filtering through`, `moonlight`, `sunrise`, `sunset`, `twilight`, `golden hour lighting`, `against backlight at dusk`, `night`, `full moon`, `cloudy`, `in the rain`, `rainy days`, `overcast`
+
+`light`, `dark`, `pale`, `shade`, `shadows`, `intense shadows`, `glimmer`
+
+`light nover`, `glowing light`, `see-through silhouette`, `neon`, `atrium`, `staudio lights`, `fantasy light`, `volumetric light`, `radiant light`, `volumetric lighting`, `softbox lighting`, `professional lighting`, `fairy lights`, `blue lighting`
 
 
 
 ### Color
+
+|                                      |           |                                         |              |
+| ------------------------------------ | --------- | --------------------------------------- | ------------ |
+| <font color="black">▇▇▇▇▇</font>     | black     | <font color="whitesmoke">▇▇▇▇▇</font>   | whitesmoke   |
+| <font color="dimgray">▇▇▇▇▇</font>   | dimgray   | <font color="white">▇▇▇▇▇</font>        | white        |
+| <font color="gray">▇▇▇▇▇</font>      | gray      | <font color="snow">▇▇▇▇▇</font>         | snow         |
+| <font color="darkgray">▇▇▇▇▇</font>  | darkgray  | <font color="ghostwhite">▇▇▇▇▇</font>   | ghostwhite   |
+| <font color="silver">▇▇▇▇▇</font>    | silver    | <font color="floralwhite">▇▇▇▇▇</font>  | floralwhite  |
+| <font color="lightgray">▇▇▇▇▇</font> | lightgray | <font color="linen">▇▇▇▇▇</font>        | linen        |
+| <font color="gainsboro">▇▇▇▇▇</font> | gainsboro | <font color="antiquewhite">▇▇▇▇▇</font> | antiquewhite |
+
+
 
 > vibrant, muted, bright, monochromatic, colorful, black and white, pastel, millennial pink, acid green, desaturated, canary yellow, peach, two toned, pastel, mauve, ebony, nentral, day glo, green tinted, iridescent gold, gradient, limited palette, colorful, vibrant pastel colors, beautifully color-coded, beautifully color graded, full of color
 
