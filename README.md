@@ -88,7 +88,7 @@ In production...
 
 |                                      |           |                                         |              |
 | ------------------------------------ | --------- | --------------------------------------- | ------------ |
-| <font color="black">▇▇▇▇▇</font>     | black     | <font color="whitesmoke">▇▇▇▇▇</font>   | whitesmoke   |
+| $\color{black}{▇▇▇▇▇}$               | black     | <font color="whitesmoke">▇▇▇▇▇</font>   | whitesmoke   |
 | <font color="dimgray">▇▇▇▇▇</font>   | dimgray   | <font color="white">▇▇▇▇▇</font>        | white        |
 | <font color="gray">▇▇▇▇▇</font>      | gray      | <font color="snow">▇▇▇▇▇</font>         | snow         |
 | <font color="darkgray">▇▇▇▇▇</font>  | darkgray  | <font color="ghostwhite">▇▇▇▇▇</font>   | ghostwhite   |
