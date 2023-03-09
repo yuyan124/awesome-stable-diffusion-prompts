@@ -24,38 +24,45 @@ In production...
 
 ### Medium
 
-`real`, `realistic`, `hyper realistic` `photorealistic`, `photo`, `RAW photo`, `polaroid`, `photography`, `professional photography`, `artistic photography`
+`real`, `realistic`, `hyper realistic` `photorealistic`, `photo`, `RAW photo`, `polaroid`, `photography`, `professional photography`, `artistic photography`, `film grain`, `production cinematic character render`, `cosplay`
 
-`CG`, `artbook`, `official art`, `reference sheet`, `megami magazine`, `anime`, `comic`, `tachi-e`, `official style`, `art nouveau`, `chibi`, `ink`, `watercolor`, `dakimakura`, `pixel art`, `card`, `cover page`, `retro arfstyle`, `4koma`, `silent comic`, `album`, `celluloid`, `silhouette`, `tarot`, `magazine cover`, `poster`
+`CG`, `artbook`, `official art`, `reference sheet`, `megami magazine`, `anime`, `comic`, `tachi-e`, `official style`, `art nouveau`, `chibi`, `ink`, `watercolor`, `dakimakura`, `pixel art`, `card`, `cover page`, `retro arfstyle`, `4koma`, `silent comic`, `album`, `celluloid`, `silhouette`, `tarot`, `magazine cover`, `poster`, `illustration`, `cartoons`, `sculpture`, `doodle`, `tapestry`, `crayons`,  `scratchboard`, `abstract`,  `brush strokes`, `printing presses`, `glitter`, `colored paper`, `black print`, `folk art`, `cyanotype`, `graffiti`, `risograph`, `blacklight painting`
 
-> painting, digital painting, matte painting, fluid gouache painting, sketches, illustration, cartoons, sculpture, doodle, tapestry, crayons, marker, scratchboard, abstract, millipen, brush strokes, printing presses, glitter, colored paper, black print, folk art, cyanotype, graffiti, risograph, pencil sketch, blacklight painting, film grain, production cinematic character render, cyberpunk
+`sketch`, `flat color`, `monochrome`, `spot color`, `halfone`, `greyscale`, `high contrast`, `partially colored`, `chromatic aberration`, `contour deepening`, `outline`, `silhouette`, `impasto`
+
+`painting`, `digital painting`, `matte painting`, `fluid gouache painting`, `traditional media`, `faux traditional media`, `marker`, `copics`, `pencil`, `pencil sketch`, `graphite`, `colored pencil`, `millipen`, `nib pen`, `ballpoint pen`, `pastel color`, `acrylic paint` 
 
 
 
 ### Environments
 
-> indoors, outdoors, landscape, on the moon, in Narnia, underwater, the Emerald City, tundra, salt flat, jungle, desert mountain, cloud forest
+`landscape`, `scenery`, `cityscape`, `underwater`, `salt flat`, `tundra`, `jungle`, `desert mountain`,  `ocean`, `beach`, `lake`, `waterfall`, `ripples`, `swirl`, `waves`, `avenue`, `horizon`, `pasture`, `plateau`, `graden`, `fields`, `floating island`, `forest`, `cloud forest`, `grasslands`, `flower field`, `flower ocean`, `volcano`, `cliff`, `snowy mountain`
+
+`city`, `cityscape`, `street`, `downtown`, `crowd`, `alleyway`, `in main street`, `intersection`, `architecture`, `skyscraper`, `east asian architecture`, `torii`, `church`, `cathedral`, `chinese style loft`, `traditional chinese room`, `castle`, `turret`, `tower`, `mosque`, `reservoir`, `railway`, `railroad`, `bridge`, `ruins`, `remains`, `rubble ruins`, `lawn`, `road`, `path`, `pavement`, `road sign`, `traffice cone`, `lamppost`, `power lines`, `fence`, `railing`, `vending machine`
+
+`park`, `classroom`, `bakery`, `cafe`, `greenhouse`, `amusement park`, `disney land`,`auditorium`, `carousel`, `ferris wheel`, `arena`, `wrestling ring`, `concert`, `bookstore`, `hotel`, `jail bars`, `moive theatre`,`stage`, `harbor`, `casino`, `billiard`, `dungeon`, `grave`, `indoors`, `outdorrs`, `gakuran`, `gym storeroom`, `playground`, `track and field`, `stadium`, `tennis court`, `soccer field`, `cafe`, `lzakaya`, `banquet`, `pool`, `swimming pool`, `laundry`, `kitchen`, `laboratory`
+
+`sky`,`night sky`, `starry sky`, `nebula`, `hyper galaxy`, `star trail`, `moon`, `on the moon`, `lunar`, `universe`, `space`, `planet`, `space station`, `satellite`
+
+`greet wall of china`, `in Narnia`, `the Emerald City`, `taj mahal`, `machu picchu`, `fuji mountain`, `venice`, `santorini`, `grand canyon`, `fushimi inari`, `tokyo tower`
 
 
 
 ### Style
 
-> photorealistic, hyper realistic, fantasy, dark fantasy, surrealist, dreamy, epic, epic scale, unreal engine, dystopian, sci-fi
+`cyberpunk`, `fantasy`, `dark fantasy`, `surrealist`, `dreamy`, `epic`, `epic scale`, `unreal engine`, `sci-fi`, `dystopian`, `hon`, `steampunk`
 
 
 
 ### Artist 
 
-> by Stanley Artgerm Lau, by Alphonse Mucha, by Andy Warhol, by Da Vinci, by Salvador Dali, by Picasso
+`by Stanley Artgerm Lau`, `by Alphonse Mucha`, `by Andy Warhol`, `by Da Vinci`, `by Salvador Dali`, `by Picasso`
 
 
 
 ### Resolution
 
-`highres`, `ultra high res`, `absurdres`,`incredibly absurdres` ,  `best quality`, `ultra high quality`, `8k uhd`, 
-
-> , masterpiece,  ultra-detailed, highly detailed, hyper-detailed, insane details, intricate details, finely detail, extremely detailed, sharp focus, ultra sharp focus, Anti-Aliasing, physically-based rendering
-
+`highres`, `ultra high res`, `absurdres`,`incredibly absurdres` ,  `best quality`, `ultra high quality`, `8k uhd`, `masterpiece`, `ultra-detailed`, `highly detailed`, `hyper-detailed`, `insane details`, `intricate details`, `finely detail`, `extremely detailed`, `sharp focus`, `ultra sharp focus`, `Anti-Aliasing`, `physically-based rendering`
 
 
 ### Composition
@@ -86,9 +93,7 @@ In production...
 
 ### Color
 
-
-
-> vibrant, muted, bright, monochromatic, colorful, black and white, pastel, millennial pink, acid green, desaturated, canary yellow, peach, two toned, pastel, mauve, ebony, nentral, day glo, green tinted, iridescent gold, gradient, limited palette, colorful, vibrant pastel colors, beautifully color-coded, beautifully color graded, full of color
+`vibrant`, `muted`, `bright`, `monochromatic`, `colorful`, `black and white`, `pastel`, `millennial pink`, `acid green`, `desaturated`, `canary yellow`, `peach`, `two toned`, `pastel`, `mauve`, `ebony`, `nentral`, `day glo`, `green tinted`, `iridescent gold`, `gradient`, `limited palette`, `colorful`, `vibrant pastel colors`, `beautifully color-coded`, `beautifully color graded`, `full of color`
 
 
 
@@ -96,13 +101,15 @@ In production...
 
 ### General
 
-> worst quality, low quality, normal quality, lowres, underexposed, overexposed, bad art, low contrast, cropped, watermark, signature, logo, blurry, jpeg artifacts, bad proportions, mutation, deformed, censored, out of frame
+`worst quality`, `low quality`, `normal quality`, `lowres`, `underexposed`, `overexposed`, `bad art`, `low contrast`, `cropped`, `watermark`, `signature`, `logo`, `jpeg artifacts`, `bad proportions`, `mutation`, `deformed`, `censored`, `out of frame`
 
 
 
 ### Body
 
-> skin blemishes, skin dentation, poorly drawn face, bad anatomy, bad proportions,  gross proportions, extra ears, cloned face, distorted face, extra limbs, extra arms, malformed limbs, missing arms, too many arms, bad hands, mutated hands, poorly drawn hands, fused fingers, too many fingers, missing fingers, extra fingers, missing legs, extra legs, bad feet, extra foot
+`skin blemishes`, `skin dentation`, `poorly drawn face`, `bad anatomy`, `bad proportions`, `gross proportions`, `extra ears`, `cloned face`, `distorted face`, `extra limbs`, `extra arms`, `malformed limbs`, `missing arms`, `too many arms`, `bad hands`, `mutated hands`, `poorly drawn hands`, `fused fingers`, `too many fingers`, `missing fingers`, `extra fingers`, `missing legs`, `extra legs`, `bad feet`, `extra foot`
+
+
 
 
 
